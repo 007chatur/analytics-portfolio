@@ -1,0 +1,7 @@
+resource_id,resource_type,resource_name,application,environment,is_active
+1,user,alice,looker,dev,true
+2,user,bob,looker,prod,true
+3,group,finance_analysts,looker,dev,true
+4,role,explore_access,looker,dev,true
+5,dataset,finance_dataset,bigquery,dev,true
+6,model,finance_model,looker,dev,true

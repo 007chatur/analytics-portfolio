@@ -1,0 +1,4 @@
+environment,allow_create,allow_delete,execution_mode
+dev,true,true,apply
+uat,true,false,apply
+prod,true,false,dry_run
