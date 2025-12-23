@@ -1,0 +1,5 @@
+dataset_id,dataset_name,size_gb,is_partitioned,owner_team_id
+D01,User_Events,500,True,T01
+D02,Product_Analytics,800,False,T02
+D03,Sales_Data,1200,False,T03
+D04,Dashboard_Reporting,600,True,T04
