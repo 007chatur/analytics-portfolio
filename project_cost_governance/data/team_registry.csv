@@ -1,0 +1,5 @@
+team_id,team_name,monthly_budget_usd,is_active,created_at
+T01,UI Team,5000,True,2025-12-01
+T02,DE Team,10000,True,2025-12-01
+T03,Analytics Team,8000,True,2025-12-01
+T04,Management Team,12000,True,2025-12-01
