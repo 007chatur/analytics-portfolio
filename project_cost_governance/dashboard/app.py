@@ -1,5 +1,3 @@
-#/Users/deadpool/analytics-platform-portfolio/project_cost_governance//Users/deadpool/analytics-platform-portfolio/project_cost_governance/data/team_registry.csvimport streamlit as st
-
 import streamlit as st
 import pandas as pd
 from datetime import datetime
@@ -28,7 +26,7 @@ queries_today = query_usage_log[query_usage_log.event_date == today].shape[0]
 daily_cost = cost_attribution[cost_attribution.cost_date == today]["calculated_cost_usd"].sum()
 monthly_cost = cost_attribution[cost_attribution.cost_date.dt.month == today.month]["calculated_cost_usd"].sum()
 
-#open_alerts = budget_alerts[budget_alerts.status=="open"].shape[0]
+#   open_alerts = budget_alerts[budget_alerts.status=="open"].shape[0]
 
 # -----------------------------
 # KPI list for rendering
