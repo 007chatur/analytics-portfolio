@@ -1,0 +1,9 @@
+user_id,user_name,team_id,role,is_active
+U01,Alice,T01,Engineer,True
+U02,Bob,T01,Analyst,True
+U03,Charlie,T02,Engineer,True
+U04,Dana,T02,Analyst,True
+U05,Eve,T03,Data Analyst,True
+U06,Frank,T03,Data Engineer,True
+U07,Grace,T04,Manager,True
+U08,Henry,T04,Manager,True
